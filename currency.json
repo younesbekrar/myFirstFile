@@ -1,22 +1,22 @@
 [
   {
-    "symbol": "DZD",
-    "value": 1
+    symbol: "DZD",
+    value: 1
   },
   {
-    "symbol": "EUR",
-    "value": 220
+    symbol: "EUR",
+    value: 220
   },
   {
-    "symbol": "USD",
-    "value": 190
+    symbol: "USD",
+    value: 190
   },
   {
-    "symbol": "GBP",
-    "value": 220
+    symbol: "GBP",
+    value: 220
   },
   {
-    "symbol": "RUB",
-    "value": 180
+    symbol: "RUB",
+    value: 180
   }
 ]
