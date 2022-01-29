@@ -1,0 +1,22 @@
+[
+  {
+    _id: 'DZD',
+    value: '1'
+  },
+  {
+    _id: 'EUR',
+    value: '220'
+  },
+  {
+    _id: 'USD',
+    value: '190'
+  },
+  {
+    _id: 'GBP',
+    value: '220'
+  },
+  {
+    _id: 'RUB',
+    value: '180'
+  }
+]
